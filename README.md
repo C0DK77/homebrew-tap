@@ -6,6 +6,7 @@ Tap Homebrew de C0DK77.
 
 ```bash
 brew tap C0DK77/tap
+brew trust c0dk77/tap
 brew install --cask wptemps        # ajouter --no-quarantine pour eviter le clic-droit
 ```
 
